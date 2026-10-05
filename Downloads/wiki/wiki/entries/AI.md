@@ -1,0 +1,1 @@
+**AI (Artificial Intelligence)** is technology that enables computers to **learn from information, understand patterns, and perform tasks that normally require human intelligence**, such as answering questions, recognizing images, or making predictions.
